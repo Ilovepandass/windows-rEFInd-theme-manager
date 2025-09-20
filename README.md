@@ -8,7 +8,7 @@ PowerShell scripts to back up and restore Windows themes for rEFInd, keeping you
 # Windows-rEFInd-Theme-Manager
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/1419019684073832470)](https://discord.com)
+![Discord](https://img.shields.io/discord/1419019684073832470)
 
 PowerShell scripts to back up and restore Windows themes for rEFInd, keeping your customizations safe and easy to manage.
 
